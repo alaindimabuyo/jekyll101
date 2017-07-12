@@ -1,2 +1,2 @@
 # alaindimabuyo
-My portfolio page 
+Jekyll 101
