@@ -1,0 +1,13 @@
+<url>
+
+      <loc>https://alaindimabuyo.github.io/jekyll101/ {{sitebase.url}}{{include.entry.url}}</loc>
+
+      <lastmod>2017-07-12</lastmod>
+      	{% if include.entry.changefreq %}
+     		 <changefreq>{{include.entry.changefreq}}</changefreq>
+      	{% endif %}
+      	{% if include.entry.changefreq %}
+    		  <priority>{{include.entry.priority}}</priority>
+       	{% endif %}
+
+   </url>
